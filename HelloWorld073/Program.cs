@@ -20,6 +20,10 @@ namespace HelloWorld073
         {
             Console.WriteLine("Addition operation");
             Console.WriteLine("Merging changes with master through pull request");
+            Console.WriteLine("Modifying in remote master");
+            Console.WriteLine("Creating conflict At local");
+            Console.WriteLine("Creating conflict At line number 23");
+
         }
 
     }
