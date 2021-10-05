@@ -23,6 +23,7 @@ namespace HelloWorld073
             Console.WriteLine("Modifying in remote master");
             Console.WriteLine("Creating conflict At local");
             Console.WriteLine("Creating conflict At line number 23");
+            Console.WriteLine("Testing merge");
 
         }
 
