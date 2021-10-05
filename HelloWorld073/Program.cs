@@ -24,6 +24,7 @@ namespace HelloWorld073
             Console.WriteLine("Creating conflict At local");
             Console.WriteLine("Creating conflict At line number 23");
             Console.WriteLine("Testing merge");
+            Console.WriteLine("Adding extra information from Developer2");
 
         }
 
